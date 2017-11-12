@@ -4,3 +4,6 @@
 [submodule "cloned_hello"]
 	path = cloned_hello
 	url = https://github.com/darkmastermindz/ClonedHelloRuby.git
+[submodule "network_hello"]
+	path = network_hello
+	url = https://github.com/darkmastermindz/NetworkHelloRuby.git
